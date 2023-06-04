@@ -61,7 +61,7 @@ function App() {
                                 <th scope="col">Action</th>
                             </tr>
                         </thead>
-                        <tbody>
+                       /* <tbody>
                             {cities.map((city) => (
                                 <tr key={city.id}>
                                     <th scope="row">{city.id}</th>
